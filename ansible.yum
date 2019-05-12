@@ -1,6 +1,0 @@
----
-- hosts: all
-  tasks:
-
-  - copy: "src=/tmp/iostat-non-cron.out dest=/tmp"
-
